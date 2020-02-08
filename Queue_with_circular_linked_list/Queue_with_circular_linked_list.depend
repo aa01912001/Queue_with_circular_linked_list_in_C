@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581148693 source:d:\github_code\queue_with_circular_linked_list_in_c\queue_with_circular_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+
